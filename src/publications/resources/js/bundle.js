@@ -1,0 +1,1 @@
+import "./../../vendor/takeru-yamamoto/laravel-view-components/resources/js/bundle";
